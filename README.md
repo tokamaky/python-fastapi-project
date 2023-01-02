@@ -5,3 +5,4 @@ It will create a database with 2 table: user and item for user to input their in
 It can create user by emial and password(password will be hiden through respond_model after creating)
 The relationship between user and item is one to many which means each user can have many items
 
+-will continue doing the update to make it more completed 
