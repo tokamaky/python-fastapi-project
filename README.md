@@ -9,11 +9,14 @@ The relationship between user and item is one to many which means each user can 
 This project is actually an Inventory that user can have muiltple items With this project you can do create user, create item for user, read_user, read_user_id, read_item.
 
 # Start
-- to run this project needs to install SQLAlchemy with code: pip install sqlalchemy
+- to run this project needs to install SQLAlchemy with code: 
+- ``` pip install sqlalchemy ```
 
-- install FastAPI with code: pip install "fastapi[all]"
+- install FastAPI with code: 
+- ```pip install "fastapi[all]" ```
 
-- to run the website to check please type: uvicorn main:app --reload 
+- to run the website to check please type: 
+- ```uvicorn main:app --reload ```
 
 - then open website:  http://127.0.0.1:8000/docs
 
