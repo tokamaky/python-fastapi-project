@@ -19,4 +19,8 @@ This project is actually an Inventory that user can have muiltple items With thi
 
 
 
-- will continue doing the update to make it more completed 
+- will continue doing the update to make it more completed # Start
+
+# Advantage
+- Protect user's information. It can create user by emial and password(password will be hiden through respond_model after creating)
+- Easy to modify
