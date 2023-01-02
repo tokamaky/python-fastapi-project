@@ -9,8 +9,10 @@ The relationship between user and item is one to many which means each user can 
 
 - install FastAPI with code: pip install "fastapi[all]"
 
--to run the website to check please type: uvicorn main:app --reload 
+- to run the website to check please type: uvicorn main:app --reload 
 
--then open website:  http://127.0.0.1:8000/docs
+- then open website:  http://127.0.0.1:8000/docs
 
--will continue doing the update to make it more completed 
+
+
+- will continue doing the update to make it more completed 
