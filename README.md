@@ -10,13 +10,13 @@ This project is actually an Inventory that user can have muiltple items With thi
 
 # Start
 - to run this project needs to install SQLAlchemy with code: 
-- ``` pip install sqlalchemy ```
+``` pip install sqlalchemy ```
 
 - install FastAPI with code: 
-- ```pip install "fastapi[all]" ```
+```pip install "fastapi[all]" ```
 
 - to run the website to check please type: 
-- ```uvicorn main:app --reload ```
+```uvicorn main:app --reload ```
 
 - then open website:  http://127.0.0.1:8000/docs
 
